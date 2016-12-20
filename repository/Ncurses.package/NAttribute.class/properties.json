@@ -1,0 +1,14 @@
+{
+	"category" : "Ncurses",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/20/2016 21:42",
+	"instvars" : [
+		"value" ],
+	"name" : "NAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
