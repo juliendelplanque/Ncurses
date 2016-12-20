@@ -1,0 +1,1 @@
+I provide methods to access the ncurses binding class.

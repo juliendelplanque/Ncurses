@@ -1,0 +1,16 @@
+{
+	"category" : "Ncurses",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "NTLibraryUser classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/20/2016 19:17",
+	"instvars" : [
+		 ],
+	"name" : "NWindow",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalObject",
+	"traitcomposition" : "NTLibraryUser",
+	"type" : "normal" }

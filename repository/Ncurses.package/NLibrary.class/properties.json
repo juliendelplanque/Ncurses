@@ -1,0 +1,14 @@
+{
+	"category" : "Ncurses",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 12/20/2016 18:08",
+	"instvars" : [
+		 ],
+	"name" : "NLibrary",
+	"pools" : [
+		 ],
+	"super" : "FFILibrary",
+	"type" : "normal" }

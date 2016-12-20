@@ -1,0 +1,3 @@
+binding
+wborder: aNWindow leftChar: leftChar rightChar: rightChar topChar: topChar bottomChar: bottomChar topLeftChar: topLeftChar topRightChar: topRightChar bottomLeftChar: bottomLeftChar bottomRightChar: bottomRightChar
+	^ self ffiCall: #(int wborder(NWindow aNWindow, char leftChar, char rightChar, char topChar, char bottomChar, char topLeftChar, char topRightChar, char bottomLeftChar, char bottomRightChar))

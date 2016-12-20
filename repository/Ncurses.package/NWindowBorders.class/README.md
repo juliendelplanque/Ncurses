@@ -1,0 +1,1 @@
+I hold the characters required to draw the borders of a NWindow.
