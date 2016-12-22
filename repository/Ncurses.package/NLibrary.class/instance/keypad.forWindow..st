@@ -1,4 +1,4 @@
 binding
-keypad: aBoolean forWindow: aNCBWindow
+keypad: aBoolean forWindow: aNWindow
 	"Enables the reading of function keys like F1, F2, arrow keys etc."
-	^ self ffiCall: #(int keypad(NWindow aNWindow, int aBoolean))
+	^ self ffiCall: #(int keypad(NWindow aNWindow, bool aBoolean))
