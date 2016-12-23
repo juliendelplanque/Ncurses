@@ -1,4 +1,4 @@
 api
-attributesSet: aNAttribute
+attributesSet: anInteger
 	^ self ncursesLib
-		wattrset: self value: aNAttribute value
+		wattrset: self value: anInteger

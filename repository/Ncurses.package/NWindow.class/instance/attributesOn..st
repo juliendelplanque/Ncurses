@@ -1,4 +1,4 @@
 api
-attributesOn: aNAttribute
+attributesOn: anInteger
 	^ self ncursesLib
-		wattron: self value: aNAttribute value
+		wattron: self value: anInteger

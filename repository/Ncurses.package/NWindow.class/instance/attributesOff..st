@@ -1,4 +1,4 @@
 api
-attributesOff: aNAttribute
+attributesOff: anInteger
 	^ self ncursesLib
-		wattroff: self value: aNAttribute value
+		wattroff: self value: anInteger
